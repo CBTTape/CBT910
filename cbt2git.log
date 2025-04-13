@@ -1,0 +1,73 @@
+2025-04-14 00:01:56.755520 - Received CBT.V508.FILE910.PDS from FILE910.XMI 
+2025-04-14 00:01:56.756428 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE910.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:01:56.756504 - Found $$INTRO.txt (text/plain) in CBT.V508.FILE910.PDS, moved to PDS/$$INTRO
+2025-04-14 00:01:56.756564 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE910.PDS, moved to PDS/$$NOTE01
+2025-04-14 00:01:56.756668 - Found $$REASON.txt (text/plain) in CBT.V508.FILE910.PDS, moved to PDS/$$REASON
+2025-04-14 00:01:56.756889 - Found #USERGDE.pdf (application/pdf) in CBT.V508.FILE910.PDS, moved to docs/#USERGDE.pdf
+2025-04-14 00:01:56.756952 - Found @FILE910.txt (text/plain) in CBT.V508.FILE910.PDS, moved to PDS/@FILE910
+2025-04-14 00:01:56.757028 - Found NSQCNTL.xmi (application/xmit) in CBT.V508.FILE910.PDS, moved to PDS/NSQCNTL.xmi
+2025-04-14 00:01:56.813963 - Received NSQ.V120.NSQCNTL from NSQCNTL.xmi 
+2025-04-14 00:01:56.814811 - Found COMDSINI.jcl (text/plain) in NSQ.V120.NSQCNTL, moved to NSQCNTL/COMDSINI
+2025-04-14 00:01:56.814888 - Found DBCLEAN.jcl (text/plain) in NSQ.V120.NSQCNTL, moved to NSQCNTL/DBCLEAN
+2025-04-14 00:01:56.814951 - Found DBINIT.jcl (text/plain) in NSQ.V120.NSQCNTL, moved to NSQCNTL/DBINIT
+2025-04-14 00:01:56.815013 - Found DBLOAD.jcl (text/plain) in NSQ.V120.NSQCNTL, moved to NSQCNTL/DBLOAD
+2025-04-14 00:01:56.815074 - Found DBSTATS.jcl (text/plain) in NSQ.V120.NSQCNTL, moved to NSQCNTL/DBSTATS
+2025-04-14 00:01:56.815133 - Found NSQPARM.txt (text/plain) in NSQ.V120.NSQCNTL, moved to NSQCNTL/NSQPARM
+2025-04-14 00:01:56.815193 - Found NSQTASK.txt (text/plain) in NSQ.V120.NSQCNTL, moved to NSQCNTL/NSQTASK
+2025-04-14 00:01:56.815252 - Found RECRBYID.jcl (text/plain) in NSQ.V120.NSQCNTL, moved to NSQCNTL/RECRBYID
+2025-04-14 00:01:56.815312 - Found RECREAD.jcl (text/plain) in NSQ.V120.NSQCNTL, moved to NSQCNTL/RECREAD
+2025-04-14 00:01:56.815378 - Found ZCOMP.rexx (text/plain) in NSQ.V120.NSQCNTL, moved to NSQCNTL/ZCOMP
+2025-04-14 00:01:56.815901 - Found NSQLOAD.xmi (application/xmit) in CBT.V508.FILE910.PDS, moved to PDS/NSQLOAD.xmi
+2025-04-14 00:01:56.879446 - Received NSQ.V120.NSQLOAD from NSQLOAD.xmi 
+2025-04-14 00:01:56.880405 - Found NSQDUT01.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQDUT01
+2025-04-14 00:01:56.880486 - Found NSQDUT02.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQDUT02
+2025-04-14 00:01:56.880553 - Found NSQDUT03.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQDUT03
+2025-04-14 00:01:56.880618 - Found NSQDUT04.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQDUT04
+2025-04-14 00:01:56.880696 - Found NSQDUT10.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQDUT10
+2025-04-14 00:01:56.880758 - Found NSQDUT11.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQDUT11
+2025-04-14 00:01:56.880832 - Found NSQDUT12.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQDUT12
+2025-04-14 00:01:56.880912 - Found NSQOOACC.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOOACC
+2025-04-14 00:01:56.880973 - Found NSQOODAS.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOODAS
+2025-04-14 00:01:56.881043 - Found NSQOODAT.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOODAT
+2025-04-14 00:01:56.881102 - Found NSQOODSN.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOODSN
+2025-04-14 00:01:56.881160 - Found NSQOOLOG.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOOLOG
+2025-04-14 00:01:56.881223 - Found NSQOORIC.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOORIC
+2025-04-14 00:01:56.881298 - Found NSQOORIG.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOORIG
+2025-04-14 00:01:56.881374 - Found NSQOORIR.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOORIR
+2025-04-14 00:01:56.881442 - Found NSQOORQC.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOORQC
+2025-04-14 00:01:56.881508 - Found NSQOORQD.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOORQD
+2025-04-14 00:01:56.881573 - Found NSQOORQR.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOORQR
+2025-04-14 00:01:56.881632 - Found NSQOOTSK.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQOOTSK
+2025-04-14 00:01:56.881698 - Found NSQSIM01.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQSIM01
+2025-04-14 00:01:56.881764 - Found NSQTAPI1.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQTAPI1
+2025-04-14 00:01:56.881844 - Found NSQTCAPI.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQTCAPI
+2025-04-14 00:01:56.881915 - Found NSQTCMD0.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQTCMD0
+2025-04-14 00:01:56.881996 - Found NSQTENTY.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQTENTY
+2025-04-14 00:01:56.882069 - Found NSQTMAIN.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQTMAIN
+2025-04-14 00:01:56.882170 - Found NSQTMCOM.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQTMCOM
+2025-04-14 00:01:56.882251 - Found NSQTMRST.bin (application/octet-stream) in NSQ.V120.NSQLOAD, moved to NSQLOAD/NSQTMRST
+2025-04-14 00:01:56.892564 - Found NSQTEST.xmi (application/xmit) in CBT.V508.FILE910.PDS, moved to PDS/NSQTEST.xmi
+2025-04-14 00:01:59.193604 - Received NSQ.V120.NSQTEST from NSQTEST.xmi 
+2025-04-14 00:01:59.194843 - Found ASMREAD.txt (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/ASMREAD
+2025-04-14 00:01:59.194919 - Found COBCREAT.txt (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/COBCREAT
+2025-04-14 00:01:59.194982 - Found COBDELET.txt (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/COBDELET
+2025-04-14 00:01:59.195043 - Found COBREAD.txt (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/COBREAD
+2025-04-14 00:01:59.195104 - Found COBREADS.txt (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/COBREADS
+2025-04-14 00:01:59.195164 - Found COBREADT.txt (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/COBREADT
+2025-04-14 00:01:59.195223 - Found COBUPDAT.txt (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/COBUPDAT
+2025-04-14 00:01:59.195303 - Found DBCITIES.jcl (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/DBCITIES
+2025-04-14 00:01:59.195376 - Found DBSTATES.jcl (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/DBSTATES
+2025-04-14 00:01:59.195436 - Found JCLASM.jcl (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/JCLASM
+2025-04-14 00:01:59.195496 - Found JCLCOB.jcl (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/JCLCOB
+2025-04-14 00:01:59.195555 - Found NOSQLZ.rexx (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/NOSQLZ
+2025-04-14 00:01:59.195650 - Found REXCREAT.rexx (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/REXCREAT
+2025-04-14 00:01:59.195709 - Found REXDELET.rexx (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/REXDELET
+2025-04-14 00:01:59.195778 - Found REXREAD.rexx (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/REXREAD
+2025-04-14 00:01:59.195848 - Found REXREADS.rexx (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/REXREADS
+2025-04-14 00:01:59.195920 - Found REXREADT.rexx (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/REXREADT
+2025-04-14 00:01:59.195981 - Found REXUPDAT.rexx (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/REXUPDAT
+2025-04-14 00:01:59.196040 - Found REXXCITY.rexx (text/plain) in NSQ.V120.NSQTEST, moved to NSQTEST/REXXCITY
+2025-04-14 00:01:59.205937 - Found SAMPDATA.xmi (application/xmit) in NSQ.V120.NSQTEST, moved to NSQTEST/SAMPDATA.xmi
+2025-04-14 00:02:01.211766 - Received IBMUSER.NSQ.CITIES from SAMPDATA.xmi 
+2025-04-14 00:02:01.216305 - Found IBMUSER.NSQ.CITIES.txt (text/plain), moved to NSQTEST/SAMPDATA/IBMUSER.NSQ.CITIES
+2025-04-14 00:02:01.220522 - Found RECEIVE.jcl (text/plain) in CBT.V508.FILE910.PDS, moved to PDS/RECEIVE
